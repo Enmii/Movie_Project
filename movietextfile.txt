@@ -1,0 +1,7 @@
+Copies id       Name               Genre       Year of Production
+10     M1   	Avengers    	  Action	2012
+1      M2	SAD         	  SAD	    	2021
+3      M3       BENR            asdfafds       1232
+4      M4	1231		  brad	        12312
+2      M5 	asdf		  basdf	 	1921
+0      M6	12		  12		12
